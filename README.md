@@ -8,10 +8,12 @@ To create the classic snake game in JavaScript, you need to use HTML, CSS, and J
 
 
 <h2>INFO</h2>
-1)Left side at top of game board is current score
-2)Right side at top of game board is high score 
-3)Green body which moves according to the arrow keys is snake
-4)Red div(with light cream border) which spwan randomly on game board is fruit
+1)Left side at top of game board is current score.<br/>
+2)Right side at top of game board is high score. <br/>
+3)Green body which moves according to the arrow keys is snake.<br/>
+4)Red div(with light cream border) which spwan randomly on game board is fruit.<br/>
+<br/>
+<br/>
 
 ![Screenshot](https://github.com/PSBVISION/Snake_Game_JS/assets/114064992/b472c604-5dec-4ba3-8798-798fd4d4bd17)
 
